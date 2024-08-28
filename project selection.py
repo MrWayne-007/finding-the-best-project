@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt # type: ignore
 import pandas as pd
 
 # Load the data from the CSV file
-data = pd.read_csv(r'C:\Users\sachi\OneDrive\Desktop\Silvermil\datalog\projects.csv')
+data = pd.read_csv(r'XXXXX(your file location)')
 
 # Assuming your CSV has columns 'Project', 'Cost', and 'Impact'
 projects = data['Projects']
